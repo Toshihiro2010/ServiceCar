@@ -9,15 +9,6 @@ var config = {
 	database: 'CarMaintenance'
 }
 
-// var config = {
-// 	user: 'stecon',
-// 	password: 'Stec2018%%',
-// 	server: 'stecondb.database.windows.net', // You can use 'localhost\\instance' to connect to named instance
-// 	database: 'CarMaintenance',
-// 	options: {
-//         encrypt: true // Use this if you're on Windows Azure
-//     }
-// }
 
 
 exports.myConfig = function() {
